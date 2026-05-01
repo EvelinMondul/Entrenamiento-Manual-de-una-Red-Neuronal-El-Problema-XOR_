@@ -1,0 +1,1 @@
+# Entrenamiento-Manual-de-una-Red-Neuronal-El-Problema-XOR_
